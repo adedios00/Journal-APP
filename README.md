@@ -1,2 +1,2 @@
 # Journal-APP
-Aplicación de notas en React.
+Aplicación de notas en React (en desarrollo actualmente)
